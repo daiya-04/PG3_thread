@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG3_thread", "PG3_thread.vcxproj", "{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Debug|x64.ActiveCfg = Debug|x64
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Debug|x64.Build.0 = Debug|x64
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Debug|x86.Build.0 = Debug|Win32
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Release|x64.ActiveCfg = Release|x64
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Release|x64.Build.0 = Release|x64
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Release|x86.ActiveCfg = Release|Win32
+		{9AF44B36-4EA7-41E7-95C3-1BAAFFFDF3DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476111F6-CDA5-4AE4-A4BD-715564C45977}
+	EndGlobalSection
+EndGlobal
